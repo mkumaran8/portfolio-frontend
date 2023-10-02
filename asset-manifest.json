@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d93988ce.css",
+    "main.js": "/static/js/main.3d475d7b.js",
+    "static/js/787.c78a8ab9.chunk.js": "/static/js/787.c78a8ab9.chunk.js",
+    "static/media/boxicons.svg": "/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
+    "static/media/boxicons.eot": "/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
+    "static/media/boxicons.woff": "/static/media/boxicons.d12afc36557395143e4b.woff",
+    "static/media/boxicons.ttf": "/static/media/boxicons.db9ddb1898dbd76badca.ttf",
+    "static/media/testimonials-4.jpeg": "/static/media/testimonials-4.61c46b1f24733745539e.jpeg",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/portfolio-4.jpg": "/static/media/portfolio-4.1f38712785516668ebe5.jpg",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/boxicons.woff2": "/static/media/boxicons.df635aaf04cd75132f62.woff2",
+    "static/media/portfolio-6.jpg": "/static/media/portfolio-6.117c1f7df4241b98e98e.jpg",
+    "static/media/portfolio-5.jpg": "/static/media/portfolio-5.fa049adf1ca63f06ee10.jpg",
+    "static/media/portfolio-7.jpg": "/static/media/portfolio-7.28e9bd4c26d56eb7a67c.jpg",
+    "static/media/testimonials-2.jpeg": "/static/media/testimonials-2.1729553460f126b266d2.jpeg",
+    "static/media/portfolio-2.jpg": "/static/media/portfolio-2.f735dadced84eede8a64.jpg",
+    "static/media/profile-img.jpeg": "/static/media/profile-img.b218899cabbd39386bcb.jpeg",
+    "static/media/testimonials-1.jpeg": "/static/media/testimonials-1.357c9df1645168feef9c.jpeg",
+    "static/media/portfolio-3.jpg": "/static/media/portfolio-3.ba015ba57b932eb32590.jpg",
+    "static/media/portfolio-1.jpg": "/static/media/portfolio-1.6f4be76e084767607793.jpg",
+    "static/media/hero-bg.jpeg": "/static/media/hero-bg.2fe176daab7fd4dfbddf.jpeg",
+    "static/media/testimonials-3.jpeg": "/static/media/testimonials-3.d51013cdae47f36a7dbe.jpeg",
+    "index.html": "/index.html",
+    "main.d93988ce.css.map": "/static/css/main.d93988ce.css.map",
+    "main.3d475d7b.js.map": "/static/js/main.3d475d7b.js.map",
+    "787.c78a8ab9.chunk.js.map": "/static/js/787.c78a8ab9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d93988ce.css",
+    "static/js/main.3d475d7b.js"
+  ]
+}
